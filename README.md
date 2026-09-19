@@ -21,3 +21,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Artifacts versus caches](notes/artifacts.md)
 - [Dependabot on Actions themselves](notes/dependabot.md)
 - [Required checks must exist to pass](notes/branch-protection.md)
+- [Squash merges and co-authorship](notes/squash-author.md)
