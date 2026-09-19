@@ -17,3 +17,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Matrix builds and fail-fast](notes/matrix.md)
 - [Cache keys need a lockfile hash](notes/caching.md)
 - [Reusable workflows versus composite actions](notes/reusable.md)
+- [Deploy environments as approval gates](notes/environments.md)
