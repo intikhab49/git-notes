@@ -11,3 +11,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Submodules pin a commit, not a branch](notes/submodules.md)
 - [Cherry-picking across branches](notes/cherry-pick.md)
 - [Stash is a commit in disguise](notes/stash.md)
+- [Reusing recorded conflict resolutions](notes/rerere.md)
