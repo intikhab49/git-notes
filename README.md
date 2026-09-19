@@ -15,3 +15,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Annotated versus lightweight tags](notes/tags.md)
 - [OIDC beats long-lived cloud keys](notes/oidc.md)
 - [Matrix builds and fail-fast](notes/matrix.md)
+- [Cache keys need a lockfile hash](notes/caching.md)
