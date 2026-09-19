@@ -14,3 +14,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Reusing recorded conflict resolutions](notes/rerere.md)
 - [Annotated versus lightweight tags](notes/tags.md)
 - [OIDC beats long-lived cloud keys](notes/oidc.md)
+- [Matrix builds and fail-fast](notes/matrix.md)
