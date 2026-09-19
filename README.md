@@ -19,3 +19,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Reusable workflows versus composite actions](notes/reusable.md)
 - [Deploy environments as approval gates](notes/environments.md)
 - [Artifacts versus caches](notes/artifacts.md)
+- [Dependabot on Actions themselves](notes/dependabot.md)
