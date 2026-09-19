@@ -23,3 +23,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Required checks must exist to pass](notes/branch-protection.md)
 - [Squash merges and co-authorship](notes/squash-author.md)
 - [Verifying signatures in CI](notes/signed.md)
+- [Marking generated files](notes/gitattributes.md)
