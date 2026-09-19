@@ -13,3 +13,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Stash is a commit in disguise](notes/stash.md)
 - [Reusing recorded conflict resolutions](notes/rerere.md)
 - [Annotated versus lightweight tags](notes/tags.md)
+- [OIDC beats long-lived cloud keys](notes/oidc.md)
