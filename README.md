@@ -10,3 +10,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Shallow fetch in CI](notes/shallow-fetch.md)
 - [Submodules pin a commit, not a branch](notes/submodules.md)
 - [Cherry-picking across branches](notes/cherry-pick.md)
+- [Stash is a commit in disguise](notes/stash.md)
