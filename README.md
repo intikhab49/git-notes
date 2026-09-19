@@ -4,3 +4,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 
 ## Index
 
+- [Sparse checkout for large monorepos](notes/sparse-checkout.md)
