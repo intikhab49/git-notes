@@ -9,3 +9,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Line endings on mixed platforms](notes/autocrlf.md)
 - [Shallow fetch in CI](notes/shallow-fetch.md)
 - [Submodules pin a commit, not a branch](notes/submodules.md)
+- [Cherry-picking across branches](notes/cherry-pick.md)
