@@ -24,3 +24,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Squash merges and co-authorship](notes/squash-author.md)
 - [Verifying signatures in CI](notes/signed.md)
 - [Marking generated files](notes/gitattributes.md)
+- [Pruning stale remote branches](notes/prune.md)
