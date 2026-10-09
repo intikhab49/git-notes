@@ -35,3 +35,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [switch and restore instead of checkout](notes/switch-restore.md)
 - [Blobless partial clones](notes/partial-clone.md)
 - [Background repository maintenance](notes/maintenance.md)
+- [Safer force pushes](notes/force-with-lease.md)
