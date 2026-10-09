@@ -37,3 +37,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Background repository maintenance](notes/maintenance.md)
 - [Safer force pushes](notes/force-with-lease.md)
 - [Per-directory git identity](notes/includeif.md)
+- [Merging author identities with mailmap](notes/mailmap.md)
