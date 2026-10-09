@@ -43,3 +43,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Removing untracked files](notes/clean.md)
 - [Staging part of a file](notes/add-patch.md)
 - [Finding where branches diverged](notes/merge-base.md)
+- [Cancelling superseded workflow runs](notes/concurrency.md)
