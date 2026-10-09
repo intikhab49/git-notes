@@ -49,3 +49,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Job summaries in Markdown](notes/step-summary.md)
 - [Capping job runtime](notes/timeout-minutes.md)
 - [Least-privilege GITHUB_TOKEN](notes/permissions.md)
+- [always(), failure() and cancelled()](notes/status-functions.md)
