@@ -36,3 +36,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Blobless partial clones](notes/partial-clone.md)
 - [Background repository maintenance](notes/maintenance.md)
 - [Safer force pushes](notes/force-with-lease.md)
+- [Per-directory git identity](notes/includeif.md)
