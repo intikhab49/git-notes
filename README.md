@@ -47,3 +47,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Manual runs with workflow_dispatch inputs](notes/dispatch-inputs.md)
 - [Passing values between jobs](notes/job-outputs.md)
 - [Job summaries in Markdown](notes/step-summary.md)
+- [Capping job runtime](notes/timeout-minutes.md)
