@@ -50,3 +50,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Capping job runtime](notes/timeout-minutes.md)
 - [Least-privilege GITHUB_TOKEN](notes/permissions.md)
 - [always(), failure() and cancelled()](notes/status-functions.md)
+- [Setting env vars for later steps](notes/github-env.md)
