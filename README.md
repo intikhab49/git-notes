@@ -52,3 +52,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [always(), failure() and cancelled()](notes/status-functions.md)
 - [Setting env vars for later steps](notes/github-env.md)
 - [Databases in CI with services](notes/service-containers.md)
+- [Letting a step fail without failing the job](notes/continue-on-error.md)
