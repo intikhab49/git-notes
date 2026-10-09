@@ -28,3 +28,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Finding a regression with bisect](notes/bisect.md)
 - [Recovering commits with the reflog](notes/reflog.md)
 - [Multiple checkouts with worktree](notes/worktree.md)
+- [Hiding formatting commits from blame](notes/blame-ignore.md)
