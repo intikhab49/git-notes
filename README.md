@@ -31,3 +31,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Hiding formatting commits from blame](notes/blame-ignore.md)
 - [Comparing two versions of a branch](notes/range-diff.md)
 - [Fixup commits and autosquash](notes/autosquash.md)
+- [Searching history for a string](notes/pickaxe.md)
