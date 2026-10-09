@@ -38,3 +38,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Safer force pushes](notes/force-with-lease.md)
 - [Per-directory git identity](notes/includeif.md)
 - [Merging author identities with mailmap](notes/mailmap.md)
+- [Attaching notes to commits](notes/git-notes.md)
