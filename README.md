@@ -45,3 +45,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Finding where branches diverged](notes/merge-base.md)
 - [Cancelling superseded workflow runs](notes/concurrency.md)
 - [Manual runs with workflow_dispatch inputs](notes/dispatch-inputs.md)
+- [Passing values between jobs](notes/job-outputs.md)
