@@ -40,3 +40,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Merging author identities with mailmap](notes/mailmap.md)
 - [Attaching notes to commits](notes/git-notes.md)
 - [Version strings from git describe](notes/describe.md)
+- [Removing untracked files](notes/clean.md)
