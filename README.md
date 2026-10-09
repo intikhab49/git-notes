@@ -42,3 +42,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Version strings from git describe](notes/describe.md)
 - [Removing untracked files](notes/clean.md)
 - [Staging part of a file](notes/add-patch.md)
+- [Finding where branches diverged](notes/merge-base.md)
