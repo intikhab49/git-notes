@@ -32,3 +32,4 @@ Short working notes on git internals and GitHub Actions, written up as I hit the
 - [Comparing two versions of a branch](notes/range-diff.md)
 - [Fixup commits and autosquash](notes/autosquash.md)
 - [Searching history for a string](notes/pickaxe.md)
+- [switch and restore instead of checkout](notes/switch-restore.md)
